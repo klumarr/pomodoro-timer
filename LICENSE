@@ -1,0 +1,17 @@
+
+### Example `.gitignore`
+
+```plaintext
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
